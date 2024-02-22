@@ -1,0 +1,1 @@
+This repository contains code for generating dandelion pictures by a simple diffusion model. 
